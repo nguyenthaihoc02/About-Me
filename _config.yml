@@ -1,4 +1,4 @@
-title: Researcher
+title: Nguyen Thai Hoc
 url: "https://nguyenthaihoc02.com"
 baseurl: "/About-Me"
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/About-Me/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
