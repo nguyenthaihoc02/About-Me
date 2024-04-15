@@ -1,8 +1,6 @@
-# Researcher
+# Profile Nguyen Thai Hoc
 
-### [Demo Website](http://ankitsultana.com/researcher)
-
-A clean, single column, monospace resume template built for jekyll
+### [Aboute Me](https://nguyenthaihoc02.github.io/About-Me/)
 
 ### Installation
 
