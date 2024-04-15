@@ -1,6 +1,6 @@
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://nguyenthaihoc02.com"
+baseurl: "/About-Me"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/nguyenthaihoc02"
 footer_text: "Page design by Thai Hoc Nguyen"
 
 sass:
