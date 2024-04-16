@@ -16,9 +16,9 @@ Here are my contact details that you can use to reach me or find me:
 
 [2] Email: thaihocit02@gmail.com
 
-[3] Facebook
+[3] [Facebook](https://www.facebook.com/NguyenThaiHoc.IT)
 
-[4] Github
+[4] [Facebook](https://github.com/nguyenthaihoc02)
 
 ## Research Interest
 My favorite research areas are machine learning in manufacturing, deep learning in healthcare, and natural language processing related to large language models.
