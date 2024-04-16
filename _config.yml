@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/About-Me/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Curriculum Viatae"
+   link: "#"
  - name: "Contact"
    link: "contact"
