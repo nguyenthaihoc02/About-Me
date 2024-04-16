@@ -6,5 +6,7 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpg">
 
+Hi
+
 
 
