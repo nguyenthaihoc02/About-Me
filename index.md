@@ -1,5 +1,6 @@
 ---
 layout: default
+is_contact: True
 ---
 
 ## About Me
@@ -12,8 +13,11 @@ Hi. My name is Nguyễn Thái Học, and I am a final-year student at ICTU (Thai
 Here are my contact details that you can use to reach me or find me:
 
 [1] Phone: 0834265442
+
 [2] Email: thaihocit02@gmail.com
+
 [3] Facebook
+
 [4] Github
 
 ## Research Interest
