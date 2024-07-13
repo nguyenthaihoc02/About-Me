@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: "/About-Me/"
  - name: "Curriculum Viatae"
-   link: "thaihocnguyen_cv.pdf"
+   link: "thaihocnguyen_cv"
  - name: "Repositories"
    link: "https://github.com/nguyenthaihoc02?tab=repositories"
