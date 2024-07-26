@@ -11,7 +11,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 ## Education
 
-**$2020 - 2025$**: *Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.
+**$2020 - 2025$**: *Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.*
 
 * GPA: 3.2
 
@@ -49,10 +49,10 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ## Contact Information
 Here are my contact details that you can use to reach me or find me:
 
-* **[1]** Mobile: 0834265442
+* **Mobile**: 0834265442
 
-* **[2]** Email: thaihocit02@gmail.com
+* **Email**: thaihocit02@gmail.com
 
-* **[3]** [Facebook](https://www.facebook.com/NguyenThaiHoc.IT)
+* [Facebook](https://www.facebook.com/NguyenThaiHoc.IT)
 
-* **[4]** [Github](https://github.com/nguyenthaihoc02)
+* [Github](https://github.com/nguyenthaihoc02)
