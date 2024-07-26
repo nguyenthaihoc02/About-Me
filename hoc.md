@@ -1,2 +1,6 @@
+---
+layout: default
+is_contact: False
+---
 
-## HOC YEU PHUONG
+## Hoc Nguyen Thai
