@@ -1,6 +1,6 @@
 ---
 layout: default
-is_contact: False
+is_contact: true
 ---
 
 ## Hoc Nguyen Thai
