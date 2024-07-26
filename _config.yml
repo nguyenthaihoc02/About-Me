@@ -1,6 +1,6 @@
 title: Nguyen Thai Hoc
 url: "https://nguyenthaihoc02.com"
-baseurl: "/About-Me/"
+baseurl: "/About-Me"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -21,6 +21,6 @@ nav:
  - name: "Curriculum Viatae"
    link: "thaihocnguyen_cv.pdf"
  - name: "Repositories"
-   link: "https://github.com/nguyenthaihoc02?tab=repositories"
+   link: "hoc"
  - name: "Book"
    link: "hoc"
