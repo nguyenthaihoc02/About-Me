@@ -11,47 +11,48 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 ## Education
 
-**$2020 - 2025$**: *Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.*
-    * GPA: 3.2
+**$2020 - 2025$**: *Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.
 
-    * Field: Machine Learning, Deep Learning.
+* GPA: 3.2
+
+* Field: Machine Learning, Deep Learning.
 
 ## Work Experience
 
 **$2023 - present$**: *AI/CV Researcher at Institute of Applided Science and Technology IAST - ICTU*
 
-    * Research and develop ML (Machine Learning), CV (Computer Vision) techniques.
+* Research and develop ML (Machine Learning), CV (Computer Vision) techniques.
 
-    * Design and implement AI applications supporting healthycare based on Machine Learning and Deep Learning models.
+* Design and implement AI applications supporting healthycare based on Machine Learning and Deep Learning models.
 
 ## Skills
 
-    * **Languages**: Strong reading and writing competencies for English.
+* **Languages**: Strong reading and writing competencies for English.
 
-    * **Coding**: C/C++, Python, Latex, Markdown.
+* **Coding**: C/C++, Python, Latex, Markdown.
 
-    * **Scientific Libraries**: Keras, Scikit-Learn, Tensorflow, Pytorch.
+* **Scientific Libraries**: Keras, Scikit-Learn, Tensorflow, Pytorch.
 
-    * **Framework & Tools**: Vim, Pycharm, VsCode Jupyter, Git.
+* **Framework & Tools**: Vim, Pycharm, VsCode Jupyter, Git.
 
-    * **Misc.**: Ubuntu, Academic research, Training.
+* **Misc.**: Ubuntu, Academic research, Training.
 
 ## Research Interest
-    * Machine Learning
+* Machine Learning
 
-    * Deep Learning
+* Deep Learning
 
-    * Computer Vision
+* Computer Vision
 
-    * Machine Learning, Computer Vision for healthycare, production and trading.
+* Machine Learning, Computer Vision for healthycare, production and trading.
 
 ## Contact Information
 Here are my contact details that you can use to reach me or find me:
 
-**[1]** Mobile: 0834265442
+* **[1]** Mobile: 0834265442
 
-**[2]** Email: thaihocit02@gmail.com
+* **[2]** Email: thaihocit02@gmail.com
 
-**[3]** [Facebook](https://www.facebook.com/NguyenThaiHoc.IT)
+* **[3]** [Facebook](https://www.facebook.com/NguyenThaiHoc.IT)
 
-**[4]** [Github](https://github.com/nguyenthaihoc02)
+* **[4]** [Github](https://github.com/nguyenthaihoc02)
