@@ -7,7 +7,28 @@ is_contact: True
 
 <img class="profile-picture" src="avatar.jpg">
 
-Hi. My name is Hoc, and I am a final-year student at ICTU (Thai Nguyen University of Information Technology and Communication), majoring in Data Science & Artificial Intelligence. I am currently conducting research for the school's Institute of Applied Science and Technology on several real-world projects.
+Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artificial Intelligence Thai Nguyen University of Information and Technolygy Communication.
+
+## Education
+
+**[2020 - 2025]**: *Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.*
+* Current GPA: 3.0
+* Field: Machine Learning, Deep Learning.
+
+## Work Experience
+
+**[2023 - present]**: *AI/CV Researcher at Institute of Applided Science and Technology IAST - ICTU*
+
+* Research and develop ML (Machine Learning), CV (Computer Vision) techniques.
+* Design and implement AI applications supporting healthycare based on Machine Learning and Deep Learning models.
+
+## Skills
+
+**[Languages]**: Strong reading and writing competencies for English.
+**[Coding]**: C/C++, Python, Latex, Markdown.
+**[Scientific Libraries]**: Keras, Scikit-Learn, Tensorflow, Pytorch.
+**[Framework & Tools]**: Vim, Pycharm, VsCode Jupyter, Git.
+**[Misc.]**: Ubuntu, Academic research, Training.
 
 ## Contact Information
 Here are my contact details that you can use to reach me or find me:
@@ -25,6 +46,9 @@ Here are my contact details that you can use to reach me or find me:
 * Deep Learning
 * Computer Vision
 * Machine Learning, Computer Vision for healthycare, production and trading.
+
+
+
 
 
 
