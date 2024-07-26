@@ -54,5 +54,3 @@ Here are my contact details that you can use to reach me or find me:
 * **Email**: thaihocit02@gmail.com
 
 * [Facebook](https://www.facebook.com/NguyenThaiHoc.IT)
-
-* [Github](https://github.com/nguyenthaihoc02)

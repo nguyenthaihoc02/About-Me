@@ -9,3 +9,4 @@ is_contact: true
 
 2. Deep Learning
 
+[test](thaihocnguyen_cv.pdf)
