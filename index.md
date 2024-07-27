@@ -5,7 +5,7 @@ is_contact: True
 
 ## About Me
 
-<img class="profile-picture" src="avatar.jpg">
+<img class="profile-picture" src="images/avatar.jpg">
 
 Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artificial Intelligence Thai Nguyen University of Information and Technolygy Communication.
 
