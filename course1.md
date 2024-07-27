@@ -108,11 +108,11 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 ### 3. Week03 - Classification algorithms in Machine Learning
 #### 3.1 Concepts & Keywords
 
-+ Classification algorithms concepts
+* Classification algorithms concepts
 
-+ Type of ML classifiction algorithms
+* Type of ML classifiction algorithms
 
-+ Performance evaluatin model classification: Precision / Recall / Confusion Matrix / F1-Score / ROC / AUC
+* Performance evaluatin model classification: Precision / Recall / Confusion Matrix / F1-Score / ROC / AUC
 
 ---
 ### 4. Week04 - 
