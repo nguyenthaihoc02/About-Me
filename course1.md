@@ -69,7 +69,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ### 1. Week01 - Introduction to Artificial Intelligence & Machine Learning
 
-
+#### 1.1. Concepts & Keywords
 
 
 
