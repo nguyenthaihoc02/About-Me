@@ -79,6 +79,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * Life cycle of Machine Learning
 
+---
 ### 2. Week02 - Suppervised Learning algorithms in Machine Learning
 
 #### 2.1 Concepts & Keywords
@@ -103,7 +104,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * Implementation Regression algorithms use Python
 
-
+---
 ### 3. Week03 - Classification algorithms in Machine Learning
 #### 3.1 Concepts & Keywords
 
@@ -113,6 +114,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * Performance evaluatin model classification: Precision / Recall / Confusion Matrix / F1-Score / ROC / AUC
 
+---
 ### 4. Week04 - 
 
 
