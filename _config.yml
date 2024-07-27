@@ -5,7 +5,7 @@ baseurl: "/About-Me"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id:
 
 footer: yes
 footer_url: "https://github.com/nguyenthaihoc02"
