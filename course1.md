@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## CSAI000 - TOPIC ARTIFICIAL INTELLIGENCE
+## CSAI000 - COURSE ARTIFICIAL INTELLIGENCE
 
 ---
 
@@ -65,9 +65,34 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ---
 <a id="part4">
-## IV. Weely Topic01                             
+## IV. Weely Topic                            
 
 ### 1. Week01 - Introduction to Artificial Intelligence & Machine Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
