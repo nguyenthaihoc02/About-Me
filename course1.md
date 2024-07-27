@@ -69,7 +69,53 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ### 1. Week01 - Introduction to Artificial Intelligence & Machine Learning
 
-#### 1.1. Concepts & Keywords
+#### 1.1 Concepts & Keywords
+
+* Artificial Intelligence & Machine Learning concepts
+
+* Type of Machine Learning
+
+* Application of Machine Learning
+
+* Life cycle of Machine Learning
+
+### 2. Week02 - Suppervised Learning algorithms in Machine Learning
+
+#### 2.1 Concepts & Keywords
+
+* Regression Analysis
+
+* Linear Regression
+
+* Lasso Regression
+
+* Rigde Regression
+
+* Backward Elimination
+
+* Gradient Descent
+
+* Cost Function
+
+* Performance evaluation model regression: Accuracy / MSE / RMSE / MAE / MAPE / R-Squared
+
+#### 2.2 Hands on
+
+* Implementation Regression algorithms use Python
+
+
+### 3. Week03 - Classification algorithms in Machine Learning
+#### 3.1 Concepts & Keywords
+
+* Classification algorithms concepts
+
+* Type of ML classifiction algorithms
+
+* Performance evaluatin model classification: Precision / Recall / Confusion Matrix / F1-Score / ROC / AUC
+
+### 4. Week04 - 
+
+
 
 
 
