@@ -5,7 +5,9 @@ is_contact: true
 
 ## CSAI000 - TOPIC ARTIFICIAL INTELLIGENCE
 
-## Content 
+---
+
+## Content
 
 1. [Description](#part1)
 
@@ -15,6 +17,7 @@ is_contact: true
 
 4. [Weekly Topic](#part4)
 
+---
 
 <a id="part1"></a>
 ## Description
