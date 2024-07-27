@@ -9,13 +9,13 @@ is_contact: true
 
 ## Content
 
-1. [Description](#part1)
+### 1. [Description](#part1)
 
-2. [Introduction](#part2)
+### 2. [Introduction](#part2)
 
-3. [Materials](#part3)
+### 3. [Materials](#part3)
 
-4. [Weekly Topic](#part4)
+### 4. [Weekly Topic](#part4)
 
 ---
 <a id="part1"></a>
@@ -42,7 +42,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * [Python basic](https://learnpython.org/)
 * [Python basic programiz](https://www.programiz.com/python-programming)
 
-2. **Blog / Website**
+### 2. Blog / Website
 
 * [Machine Learning basic - Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
 * [Dive into Deep Learning](https://d2l.aivivn.com/)
@@ -50,11 +50,9 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * [Data Science - Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 * [Machine Learning basic geekforgeeks](https://www.geeksforgeeks.org/machine-learning/?ref=outind)
 
-**3. Book**
+### 3. Book
 
- 1. sdfsdf
- 2. fsdfsd
- 3. fasfdsf
+* 
 
 
 
