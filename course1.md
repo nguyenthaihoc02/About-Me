@@ -115,7 +115,18 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * Performance evaluatin model classification: Precision / Recall / Confusion Matrix / F1-Score / ROC / AUC
 
 ---
-### 4. Week04 - 
+### 4. Week04 - K Nearest Neighbor algorithms
+#### 4.1 Concepts & Keywords
+
+* KNN concepts
+
+* Select value of K techniques
+
+* Advantages and Disadvantages
+
+#### 4.2 Hands on
+
+* Implementation KNN algorithms use Python
 
 
 
