@@ -3,7 +3,7 @@ layout: default
 is_contact: True
 ---
 
-## About Me
+\textcolor{red}{## About Me}
 
 <img class="profile-picture" src="images/avatar.jpg">
 
