@@ -3,7 +3,10 @@ layout: default
 is_contact: true
 ---
 
+
 ## CSAI000 - COURSE ARTIFICIAL INTELLIGENCE
+
+<img class="profile-picture" src="images/avatar.jpg">
 
 ---
 
