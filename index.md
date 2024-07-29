@@ -3,7 +3,7 @@ layout: default
 is_contact: True
 ---
 
- <span style="color:red;"> ## About Me> </span>
+<h2 style="color: red;">About Me</h2>
 
 <img class="profile-picture" src="images/avatar.jpg">
 
