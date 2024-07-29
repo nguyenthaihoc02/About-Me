@@ -11,7 +11,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 ## Education
 
-<i class="fa-solid fa-heart"></i> *$2020 - 2025$*: **Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.**
+<i class="fa-solid fa-graduation-cap fa-lg" style="color: #df2050;"></i> *$2020 - 2025$*: **Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.**
 
 * **GPA**: *3.2*
 
