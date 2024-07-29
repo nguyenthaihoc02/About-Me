@@ -3,7 +3,7 @@ layout: default
 is_contact: True
 ---
 
-<h2 style="color: yellow;">About Me</h2>
+<h2 style="color: brown;">About Me</h2>
 
 <img class="profile-picture" src="images/avatar.jpg">
 
