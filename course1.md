@@ -12,13 +12,13 @@ is_contact: true
 
 ## Content
 
-### 1. [Description](#part1)
+- [Description](#part1)
 
-### 2. [Introduction](#part2)
+- [Introduction](#part2)
 
-### 3. [Materials](#part3)
+- [Materials](#part3)
 
-### 4. [Weekly Topic](#part4)
+- [Weekly Topic](#part4)
 
 ---
 <a id="part1"></a>
@@ -55,16 +55,15 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ### 3. Book
 
-* Machine Learning basic - Vu Huu Tiep: [Link download](https://drive.google.com/file/d/1QUGAEW4nHivTr1ucW7JklayThV2JdOYk/view?usp=sharing).
+* [Machine Learning basic - Vu Huu Tiep](https://drive.google.com/file/d/1QUGAEW4nHivTr1ucW7JklayThV2JdOYk/view?usp=sharing).
 
-* Design Machine Learning System - Chip Huyen: [Link download](https://drive.google.com/file/d/1j0qaLTGOhLDFjOPO-xMnsSQfaHaPvH-O/view?usp=sharing).
+* [Design Machine Learning System - Chip Huyen](https://drive.google.com/file/d/1j0qaLTGOhLDFjOPO-xMnsSQfaHaPvH-O/view?usp=sharing).
 
-* Pattern Recognition and Machine Learning - Bishop: [Link download](https://drive.google.com/file/d/1x_gEQ0_Y3iVS8mYFBMAMJqHBUWqTSdVB/view?usp=sharing).
+* [Pattern Recognition and Machine Learning - Bishop](https://drive.google.com/file/d/1x_gEQ0_Y3iVS8mYFBMAMJqHBUWqTSdVB/view?usp=sharing).
 
-* Deep Learning basic - Nguyen Thanh Tuan: [Link download](https://drive.google.com/file/d/1ZpJnz21qVZmOThS1OwFzir5saOBpiwS3/view?usp=sharing).
+* [Deep Learning basic - Nguyen Thanh Tuan](https://drive.google.com/file/d/1ZpJnz21qVZmOThS1OwFzir5saOBpiwS3/view?usp=sharing).
 
-* Deep Learning basic - Good Fellow, Yoshua Bengio and Aaron Courville: [Link download](https://drive.google.com/file/d/1gWgcS8LujPjrI7Wbcxi3H3hdm93Fx4xI/view?usp=sharing).
-
+* [Deep Learning basic - Good Fellow, Yoshua Bengio and Aaron Courville](https://drive.google.com/file/d/1gWgcS8LujPjrI7Wbcxi3H3hdm93Fx4xI/view?usp=sharing).
 
 ---
 <a id="part4">
@@ -130,6 +129,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 #### 4.2 Hands on
 
 * Implementation KNN algorithms use Python
+
 
 
 

@@ -11,19 +11,19 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 ## Education
 
-**$2020 - 2025$**: *Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.*
+*$2020 - 2025$*: **Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.**
 
-* GPA: 3.2
+* **GPA**: *3.2*
 
-* Field: Machine Learning, Deep Learning.
+* **Field**: *Machine Learning, Deep Learning.*
 
 ## Work Experience
 
-**$2023 - present$**: *AI/CV Researcher at Institute of Applided Science and Technology IAST - ICTU*
+*$2023 - present$*: **AI/CV Researcher at Institute of Applided Science and Technology IAST - ICTU**
 
-* Research and develop ML (Machine Learning), CV (Computer Vision) techniques.
+* *Research and develop ML (Machine Learning), CV (Computer Vision) techniques.*
 
-* Design and implement AI applications supporting healthycare based on Machine Learning and Deep Learning models.
+* *Design and implement AI applications supporting healthycare based on Machine Learning and Deep Learning models.*
 
 ## Skills
 
@@ -53,4 +53,4 @@ Here are my contact details that you can use to reach me or find me:
 
 * **Email**: thaihocit02@gmail.com
 
-* [Facebook](https://www.facebook.com/NguyenThaiHoc.IT)
+* **Facebook**: [Link facebook](https://www.facebook.com/NguyenThaiHoc.IT)
