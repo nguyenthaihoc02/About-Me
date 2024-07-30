@@ -62,7 +62,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * [Deep Learning basic, Good Fellow, Yoshua Bengio and Aaron Courville](https://drive.google.com/file/d/1gWgcS8LujPjrI7Wbcxi3H3hdm93Fx4xI/view?usp=sharing).
 
-### Other Resources
+### 3. Other Resources
 
 * [Geekforgeeks Python tutorials](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=lbp)
 
@@ -83,7 +83,9 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 #### a. Concepts and Keywords
 
-* *Artificial Intelligence & Machine Learning concepts*
+* *Artificial Intelligence concept*
+
+* *Machine Learning concept*
 
 * *Type of Machine Learning*
 
@@ -91,59 +93,89 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * *Life cycle of Machine Learning*
 
-#### b. Hands on 
+#### b. Hands on
 
-* None
+* *None*
 
-### 2. Week02 - Suppervised Learning algorithms in Machine Learning
+#### c. Notes
 
-#### 2.1 Concepts & Keywords
+* *None*
 
-* Regression Analysis
+### 2. Week02 : Suppervised Learning algorithms in Machine Learning
 
-* Linear Regression
+#### a. Concepts and Keywords
 
-* Lasso Regression
+* *Regression Analysis*
 
-* Rigde Regression
+* *Linear Regression*
 
-* Backward Elimination
+* *Lasso Regression*
 
-* Gradient Descent
+* *Rigde Regression*
 
-* Cost Function
+* *Backward Elimination*
 
-* Performance evaluation model regression: Accuracy / MSE / RMSE / MAE / MAPE / R-Squared
+* *Gradient Descent*
 
-#### 2.2 Hands on
+* *Cost Function*
 
-* Implementation Regression algorithms use Python
+* *Evaluation Regression model performance: Accuracy, MSE, RMSE, MAE, MAPE, R-Squared*
 
----
+#### b. Hands on
+
+* *Implementation Regression algorithms use Python*
+
+#### c. Notes
+
+* *None*
+
 ### 3. Week03 - Classification algorithms in Machine Learning
-#### 3.1 Concepts & Keywords
 
-* Classification algorithms concepts
+#### a. Concepts & Keywords
 
-* Type of ML classifiction algorithms
+* *Classification algorithms concept*
 
-* Performance evaluatin model classification: Precision / Recall / Confusion Matrix / F1-Score / ROC / AUC
+* *Type of ML classifiction algorithms*
 
----
-### 4. Week04 - K Nearest Neighbor algorithms
-#### 4.1 Concepts & Keywords
+* *Evaluation classification model performance: Precision, Recall, Confusion Matrix, F1-Score, ROC, AUC*
 
-* KNN concepts
+#### b. Hands on
 
-* Select value of K techniques
+* *None*
 
-* Advantages and Disadvantages
+#### c. Notes
 
-#### 4.2 Hands on
+* *None*
 
-* Implementation KNN algorithms use Python
+### 4. Week04 - K Nearest Neighbor algorithm
 
+#### a. Concepts and Keywords
 
+* *KNN concept*
+
+* *Select value of K techniques*
+
+* *Advantages and Disadvantages*
+
+#### b. Hands on
+
+* *Implementation KNN algorithms use Python*
+
+#### c. Notes
+
+* *None*
+
+### 5. Week05
+
+### 6. Week06
+
+### 7. Week07
+
+### 8. Week08
+
+### 9. Week09
+
+### 10. Week10
 
 
 
