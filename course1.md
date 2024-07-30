@@ -11,7 +11,6 @@ is_contact: true
 ---
 
 ## Content
-
 - [Description](#part1)
 
 - [Introduction](#part2)
@@ -41,16 +40,23 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 ### 1. Programming basic
 
 * [Geekforgeeks Python tutorials](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=lbp)
+
 * [W3Schools Python tutorials](https://www.w3schools.com/python/)
+
 * [Python basic](https://learnpython.org/)
+
 * [Python basic programiz](https://www.programiz.com/python-programming)
 
 ### 2. Blog / Website
 
 * [Machine Learning basic - Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
+
 * [Dive into Deep Learning](https://d2l.aivivn.com/)
+
 * [Deep AI - Pham Dinh Khanh](https://phamdinhkhanh.github.io/deepai-book/ch_intro/main_contents.html)
+
 * [Data Science - Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
+
 * [Machine Learning basic geekforgeeks](https://www.geeksforgeeks.org/machine-learning/?ref=outind)
 
 ### 3. Book
