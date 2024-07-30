@@ -3,7 +3,8 @@ layout: default
 is_contact: true
 ---
 
-<i class="fa-solid fa-award"></i> <h2 style="color: red" CSAI000 : ARTIFICIAL INTELLIGENCE COURSE></h2>
+<i class="fa-solid fa-award"></i>
+<h2 style="color: red;">CSAI000 : ARTIFICIAL INTELLIGENCE COURSE</h2>
 
 <img class="profile-picture" src="images/avatar.jpg">
 
