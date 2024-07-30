@@ -47,7 +47,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 * Machine Learning, Computer Vision for healthycare, production and trading.
 
-* <h2 style="color: #F08080;">Contact Information</h2>
+<h2 style="color: #F08080;">Contact Information</h2>
 
 * <i class="fa-solid fa-phone"></i> 0834265442
 
