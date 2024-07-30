@@ -102,7 +102,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * *None*
 
 ---
-### 2. Week02 : Suppervised Learning algorithms in Machine Learning
+### Week02 - Suppervised Learning algorithms in Machine Learning
 
 #### a. Concepts and Keywords
 
@@ -131,7 +131,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * *None*
 
 ---
-### 3. Week03 - Classification algorithms in Machine Learning
+### Week03 - Classification algorithms in Machine Learning
 
 #### a. Concepts & Keywords
 
@@ -150,7 +150,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * *None*
 
 ---
-### 4. Week04 - K Nearest Neighbor algorithm
+### Week04 - K Nearest Neighbor algorithm
 
 #### a. Concepts and Keywords
 
@@ -169,55 +169,31 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * *None*
 
 ----
-### 5. Week05
+### Week05
 
-* progress
+* In progress
 
-### 6. Week06
+---
+### Week06
 
-### 7. Week07
+* In progress
 
-### 8. Week08
+---
+### Week07
 
-### 9. Week09
+* In progress
 
-### 10. Week10
+---
+### Week08
 
+* In progress
 
+---
+### Week09
 
+* In progress
 
+---
+### Week10
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* In progress
