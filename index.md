@@ -3,13 +3,13 @@ layout: default
 is_contact: True
 ---
 
-<h2 style="color: brown;">About Me</h2>
+<h2 style="color: #F08080;">About Me</h2>
 
 <img class="profile-picture" src="images/avatar.jpg">
 
 Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artificial Intelligence Thai Nguyen University of Information and Technolygy Communication.
 
-## Education
+<h2 style="color: #F08080;">Education</h2>
 
 <i class="fa-solid fa-graduation-cap fa-lg" style="color: #df2050;"></i> *$2020 - 2025$*: **Bachelor of Engineer in Data Science and Artificial Intelligence, University of Information and Technology and Communication, Viet Nam.**
 
@@ -17,7 +17,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 * **Field**: *Machine Learning, Deep Learning.*
 
-## Work Experience
+<h2 style="color: #F08080;">Work Experience</h2>
 
 *$2023 - present$*: **AI/CV Researcher at Institute of Applided Science and Technology IAST - ICTU**
 
@@ -25,7 +25,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 * *Design and implement AI applications supporting healthycare based on Machine Learning and Deep Learning models.*
 
-## Skills
+<h2 style="color: #F08080;">Skills</h2>
 
 * **Languages**: Strong reading and writing competencies for English.
 
@@ -37,7 +37,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 * **Misc.**: Ubuntu, Academic research, Training.
 
-## Research Interest
+<h2 style="color: #F08080;">Research Interest</h2>
+
 * Machine Learning
 
 * Deep Learning
@@ -46,8 +47,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 * Machine Learning, Computer Vision for healthycare, production and trading.
 
-## Contact Information
-Here are my contact details that you can use to reach me or find me:
+<h2 style="color: #F08080;">Contact Information</h2>
 
 * **Mobile**: 0834265442
 
