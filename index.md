@@ -47,10 +47,10 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 * Machine Learning, Computer Vision for healthycare, production and trading.
 
-<h2 style="color: #F08080;">Contact Information</h2>
+* <h2 style="color: #F08080;">Contact Information</h2>
 
-<i class="fa-solid fa-phone"></i> 0834265442
+* <i class="fa-solid fa-phone"></i> 0834265442
 
-<i class="fa-solid fa-envelope"></i> thaihocit02@gmail.com
+* <i class="fa-solid fa-envelope"></i> thaihocit02@gmail.com
 
-<i class="fa-brands fa-facebook"></i> [Link facebook](https://www.facebook.com/NguyenThaiHoc.IT)
+* <i class="fa-brands fa-facebook"></i> [Link facebook](https://www.facebook.com/NguyenThaiHoc.IT)
