@@ -11,17 +11,16 @@ is_contact: true
 
 ## Content
 
- [I. Course Description](#part1)
+[I. Course Description](#part1)
 
- [II. Course Introduction](#part2)
+[II. Course Introduction](#part2)
 
- [III. Materials](#part3)
+[III. Materials](#part3)
 
- [IV. Course Schedule](#part4)
+[IV. Course Schedule](#part4)
+    - [1. Week01 - Introduction](#week01---introduction-to-artificial-intelligence--machine-learning)
 
-    [1. Week01 - Introduction](#week01---introduction-to-artificial-intelligence--machine-learning)
 
-    
 
 
 ---
