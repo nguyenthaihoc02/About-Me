@@ -18,10 +18,10 @@ is_contact: true
 [III. Materials](#part3)
 
 [IV. Course Schedule](#part4)
-    - [1. Week01 - Introduction](#week01---introduction-to-artificial-intelligence--machine-learning)
 
+- [a. Week01 - Introduction to Artificial Intelligence and Machine Learning](#week01---introduction-to-artificial-intelligence--machine-learning)
 
-
+- [b. Week02 - Supervised Learning algorithms in Machine Learning](#week02---suppervised-learning-algorithms-in-machine-learning)
 
 ---
 <a id="part1"></a>
@@ -83,7 +83,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ## IV. Course Schedule                       
 
-### Week01 - Introduction to Artificial Intelligence & Machine Learning
+### Week01 - Introduction to Artificial Intelligence and Machine Learning
 
 #### 1. Concepts and Keywords
 
