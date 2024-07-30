@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 
-## CSAI000 - COURSE ARTIFICIAL INTELLIGENCE
+<h2 class="fa-solid fa-award" style="color: #F08080;">CSAI000 : ARTIFICIAL INTELLIGENCE</h2>
 
 <img class="profile-picture" src="images/avatar.jpg">
 
@@ -12,16 +12,17 @@ is_contact: true
 
 ## Content
 
-- [Description](#part1)
+ [I. Description](#part1)
 
-- [Introduction](#part2)
+ [II. Introduction](#part2)
 
-- [Materials](#part3)
+ [III. Materials](#part3)
 
-- [Weekly Topic](#part4)
+ [IV. Weekly Topic](#part4)
 
 ---
 <a id="part1"></a>
+
 ## I. Description
 
 CSAIOOO includes discussions on AI-related topics, especially focusing on two main areas: Machine Learning and Deep Learning. The topics cover algorithms related to supervised learning and unsupervised learning. Additionally, there are techniques for building models from end to end, data collection and preprocessing, and model performance evaluation.
