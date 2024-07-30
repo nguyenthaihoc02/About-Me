@@ -83,21 +83,21 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 #### 1. Concepts and Keywords
 
-a. Artificial Intelligence concept
+ a. Artificial Intelligence concept
 
-b. *Machine Learning concept*
+ b. *Machine Learning concept*
 
-c. *Type of Machine Learning*
+ c. *Type of Machine Learning*
 
-d. Application of Machine Learning
+ d. Application of Machine Learning
 
-e. *Life cycle of Machine Learning*
+ e. *Life cycle of Machine Learning*
 
 #### 2. Hands on
 
 * None
 
-#### c. Notes
+#### 3. Notes
 
 * None
 
