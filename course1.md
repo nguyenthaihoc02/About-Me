@@ -81,25 +81,25 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ### Week01 - Introduction to Artificial Intelligence & Machine Learning
 
-#### a. Concepts and Keywords
+#### 1. Concepts and Keywords
 
-* *Artificial Intelligence concept*
+a. Artificial Intelligence concept
 
-* *Machine Learning concept*
+b. *Machine Learning concept*
 
-* *Type of Machine Learning*
+c. *Type of Machine Learning*
 
-* *Application of Machine Learning*
+d. Application of Machine Learning
 
-* *Life cycle of Machine Learning*
+e. *Life cycle of Machine Learning*
 
-#### b. Hands on
+#### 2. Hands on
 
-* *None*
+* None
 
 #### c. Notes
 
-* *None*
+* None
 
 ---
 ### Week02 - Suppervised Learning algorithms in Machine Learning
