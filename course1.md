@@ -79,7 +79,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ## IV. Course Schedule                       
 
-### 1. Week01 : Introduction to Artificial Intelligence & Machine Learning
+### Week01 - Introduction to Artificial Intelligence & Machine Learning
 
 #### a. Concepts and Keywords
 
@@ -101,6 +101,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * *None*
 
+---
 ### 2. Week02 : Suppervised Learning algorithms in Machine Learning
 
 #### a. Concepts and Keywords
@@ -129,6 +130,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * *None*
 
+---
 ### 3. Week03 - Classification algorithms in Machine Learning
 
 #### a. Concepts & Keywords
@@ -147,6 +149,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * *None*
 
+---
 ### 4. Week04 - K Nearest Neighbor algorithm
 
 #### a. Concepts and Keywords
@@ -165,7 +168,10 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * *None*
 
+----
 ### 5. Week05
+
+* progress
 
 ### 6. Week06
 
