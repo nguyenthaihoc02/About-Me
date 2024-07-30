@@ -18,6 +18,8 @@ is_contact: true
  [III. Materials](#part3)
 
  [IV. Course Schedule](#part4)
+    [1. Week01 - Introduction](#week01---introduction-to-artificial-intelligence--machine-learning)
+    
 
 ---
 <a id="part1"></a>
