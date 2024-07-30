@@ -104,31 +104,31 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 ---
 ### Week02 - Suppervised Learning algorithms in Machine Learning
 
-#### a. Concepts and Keywords
+#### 1. Concepts and Keywords
 
-* *Regression Analysis*
+* Regression Analysis
 
-* *Linear Regression*
+* Linear Regression
 
-* *Lasso Regression*
+* Lasso Regression
 
-* *Rigde Regression*
+* Rigde Regression
 
-* *Backward Elimination*
+* Backward Elimination
 
-* *Gradient Descent*
+* Gradient Descent
 
-* *Cost Function*
+* Cost Function
 
-* *Evaluation Regression model performance: Accuracy, MSE, RMSE, MAE, MAPE, R-Squared*
+* Evaluation Regression model performance: Accuracy, MSE, RMSE, MAE, MAPE, R-Squared
 
-#### b. Hands on
+#### 2. Hands on
 
-* *Implementation Regression algorithms use Python*
+* Implementation Regression algorithms use Python
 
-#### c. Notes
+#### 3. Notes
 
-* *None*
+* None
 
 ---
 ### Week03 - Classification algorithms in Machine Learning
@@ -152,21 +152,21 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 ---
 ### Week04 - K Nearest Neighbor algorithm
 
-#### a. Concepts and Keywords
+#### 1. Concepts and Keywords
 
-* *KNN concept*
+* KNN concept
 
-* *Select value of K techniques*
+* Select value of K techniques
 
-* *Advantages and Disadvantages*
+* Advantages and Disadvantages
 
-#### b. Hands on
+#### 2. Hands on
 
-* *Implementation KNN algorithms use Python*
+* Implementation KNN algorithms use Python
 
-#### c. Notes
+#### 3. Notes
 
-* *None*
+* None
 
 ----
 ### Week05
