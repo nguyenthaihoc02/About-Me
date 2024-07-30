@@ -39,13 +39,13 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 <h2 style="color: #F08080;">Research Interest</h2>
 
-* Machine Learning
+* *Machine Learning*
 
-* Deep Learning
+* *Deep Learning*
 
-* Computer Vision
+* *Computer Vision*
 
-* Machine Learning, Computer Vision for healthycare, production and trading.
+* *Machine Learning, Computer Vision for healthycare, production and trading*
 
 <h2 style="color: #F08080;">Contact Information</h2>
 

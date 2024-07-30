@@ -133,21 +133,21 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 ---
 ### Week03 - Classification algorithms in Machine Learning
 
-#### a. Concepts & Keywords
+#### 1. Concepts & Keywords
 
-* *Classification algorithms concept*
+* Classification algorithms concept
 
-* *Type of ML classifiction algorithms*
+* Type of ML classifiction algorithms
 
-* *Evaluation classification model performance: Precision, Recall, Confusion Matrix, F1-Score, ROC, AUC*
+* Evaluation classification model performance: Precision, Recall, Confusion Matrix, F1-Score, ROC, AUC
 
-#### b. Hands on
+#### 2. Hands on
 
-* *None*
+* None
 
-#### c. Notes
+#### 3. Notes
 
-* *None*
+* None
 
 ---
 ### Week04 - K Nearest Neighbor algorithm
