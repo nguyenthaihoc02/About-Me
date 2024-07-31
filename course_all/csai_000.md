@@ -5,8 +5,7 @@ is_contact: true
 
 <h2 class="fa-solid fa-award" style="color: #F08080;"> CSAI000 : ARTIFICIAL INTELLIGENCE COURSE </h2>
 
-<img class="profile-picture" src="images/avatar.jpg">
-
+<img class="profile-picture" src="/images/avatar.jpg">
 ---
 
 ## Content
@@ -19,9 +18,9 @@ is_contact: true
 
 [IV. Course Schedule](#part4)
 
-1. [Week01 - Introduction to Artificial Intelligence and Machine Learning](#week01---introduction-to-artificial-intelligence--machine-learning)
+* [Week01 - Introduction to Artificial Intelligence and Machine Learning](#week01---introduction-to-artificial-intelligence--machine-learning)
 
-2. [Week02 - Supervised Learning algorithms in Machine Learning](#week02---suppervised-learning-algorithms-in-machine-learning)
+* [Week02 - Supervised Learning algorithms in Machine Learning](#week02---suppervised-learning-algorithms-in-machine-learning)
 
 ---
 <a id="part1"></a>
