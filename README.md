@@ -1,6 +1,6 @@
 # Profile Nguyen Thai Hoc
 
-### [Aboute Me](https://nguyenthaihoc02.github.io/About-Me/)
+### [About Me](https://nguyenthaihoc02.github.io/About-Me/)
 
 ### Installation
 

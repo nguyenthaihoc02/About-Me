@@ -6,7 +6,7 @@ is_contact: true
 <h2 class="fa-solid fa-award" style="color: #F08080;"> CSAI000 : ARTIFICIAL INTELLIGENCE COURSE </h2>
 
 <img class="profile-picture" src="/images/avatar.jpg">
----
+
 
 ## Content
 
