@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "About Me"
    link: "/About-Me/"
  - name: "Curriculum Viatae"
    link: "thaihocnguyen_cv.pdf"
