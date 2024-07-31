@@ -23,4 +23,4 @@ nav:
  - name: "Repositories"
    link: "https://github.com/nguyenthaihoc02?tab=repositories"
  - name: "Courses"
-   link: "/course_all/csai_000"
+   link: "course_all/csai_000"
