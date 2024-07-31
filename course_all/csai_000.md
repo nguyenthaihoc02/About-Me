@@ -32,9 +32,9 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ## II. Course Information
 
-* **Time**: **08:00 PM** every **Tuesday** and **Friday**.
+1. **Time**: **08:00 PM** every **Tuesday** and **Friday**.
 
-* **Requirements**: Research and understand the concepts and     keywords, prepare notes or slides for weekly presentations and discussions.
+2. **Requirements**: Research and understand the concepts and     keywords, prepare notes or slides for weekly presentations and discussions.
 
 ---
 <a id="part3"></a>
@@ -43,13 +43,13 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ### 1. Blog & Website
 
-* [Machine Learning basic, Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
+a. [Machine Learning basic, Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
 
-* [Dive into Deep Learning](https://d2l.aivivn.com/)
+b. [Dive into Deep Learning](https://d2l.aivivn.com/)
 
-* [Deep AI, Pham Dinh Khanh](https://phamdinhkhanh.github.io/deepai-book/ch_intro/main_contents.html)
+c. [Deep AI, Pham Dinh Khanh](https://phamdinhkhanh.github.io/deepai-book/ch_intro/main_contents.html)
 
-* [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
+d. [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 
 ### 2. Book
 
