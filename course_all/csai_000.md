@@ -1,6 +1,8 @@
-<h2 class="fa-solid fa-award" style="color: #F08080;"> CSAI000 : ARTIFICIAL INTELLIGENCE COURSE </h2>
+---
+layout: default
+---
 
-<img class="profile-picture" src="/images/avatar.jpg">
+<h2 class="fa-solid fa-award" style="color: #F08080;"> CSAI000 : ARTIFICIAL INTELLIGENCE COURSE </h2>
 
 ## Content
 

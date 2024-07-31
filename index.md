@@ -1,6 +1,5 @@
 ---
 layout: default
-is_contact: True
 ---
 
 <h2 style="color: #F08080;">About Me</h2>
