@@ -1,6 +1,6 @@
 title: Nguyen Thai Hoc
-url: "https://github.com/nguyenthaihoc02/About-Me"
-baseurl: "/About-Me"
+url: "https://github.com/nguyenthaihoc02"
+baseurl: "/About-Me/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -22,5 +22,5 @@ nav:
    link: "thaihocnguyen_cv.pdf"
  - name: "Repositories"
    link: "https://github.com/nguyenthaihoc02?tab=repositories"
- - name: "Coures"
-   link: "/course_all/csai_000.md"
+ - name: "Courses"
+   link: "/course_all/csai_000"
