@@ -19,9 +19,9 @@ is_contact: true
 
 [IV. Course Schedule](#part4)
 
-- [a. Week01 - Introduction to Artificial Intelligence and Machine Learning](#week01---introduction-to-artificial-intelligence--machine-learning)
+1. [Week01 - Introduction to Artificial Intelligence and Machine Learning](#week01---introduction-to-artificial-intelligence--machine-learning)
 
-- [b. Week02 - Supervised Learning algorithms in Machine Learning](#week02---suppervised-learning-algorithms-in-machine-learning)
+2. [Week02 - Supervised Learning algorithms in Machine Learning](#week02---suppervised-learning-algorithms-in-machine-learning)
 
 ---
 <a id="part1"></a>
