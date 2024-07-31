@@ -5,7 +5,7 @@ is_contact: True
 
 <h2 style="color: #F08080;">About Me</h2>
 
-<img class="profile-picture" src="/images/avatar.jpg">
+<img class="profile-picture" src="images/avatar.jpg">
 
 Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artificial Intelligence Thai Nguyen University of Information and Technolygy Communication.
 

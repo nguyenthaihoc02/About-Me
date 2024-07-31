@@ -1,11 +1,11 @@
 ---
 layout: default
-is_contact: true
+is_contact: True
 ---
 
 <h2 class="fa-solid fa-award" style="color: #F08080;"> CSAI000 : ARTIFICIAL INTELLIGENCE COURSE </h2>
 
-<img class="profile-picture" src="/images/avatar.jpg">
+<img class="profile-picture" src="images/avatar.jpg">
 
 
 ## Content
