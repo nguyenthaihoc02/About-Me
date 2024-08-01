@@ -64,7 +64,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artificial Intelligence Thai Nguyen University of Information and Technolygy Communication.
 
 ### 2. Contact Information
-1. <i class="fa-solid fa-phone"></i> <0834265442>
+1. <i class="fa-solid fa-phone"></i> 0834265442
 
 2. <i class="fa-solid fa-envelope"></i> <thaihocit02@gmail.com>
 
@@ -105,21 +105,21 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 ---
 ## V. Course Schedule                       
-### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
-#### 1. Concepts and Keywords
-* Artificial Intelligence concept
+> ### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
+>#### 1. Concepts and Keywords
+>* Artificial Intelligence concept
 
-* Machine Learning concept
+>* Machine Learning concept
 
-* Type of Machine Learning
+>* Type of Machine Learning
 
-* Application of Machine Learning
+>* Application of Machine Learning
 
-* Life cycle of Machine Learning
+>* Life cycle of Machine Learning
 
-#### 2. Hands on
-#### 3. Notes
-#### 4. Videos
+>#### 2. Hands on
+>#### 3. Notes
+>#### 4. Videos
 
 ---
 ### Week02 - Suppervised Learning and Regression Algorithms
