@@ -106,20 +106,20 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ## V. Course Schedule                       
 ### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
->#### 1. Concepts and Keywords
->* Artificial Intelligence concept
+> #### 1. Concepts and Keywords
+> * Artificial Intelligence concept
 >
->* Machine Learning concept
+> * Machine Learning concept
 >
->* Type of Machine Learning
+> * Type of Machine Learning
 >
->* Application of Machine Learning
+> * Application of Machine Learning
 >
->* Life cycle of Machine Learning
+> * Life cycle of Machine Learning
 >
->#### 2. Hands on
->#### 3. Notes
->#### 4. Videos
+> #### 2. Hands on
+> #### 3. Notes
+> #### 4. Videos
 
 ---
 ### Week02 - Suppervised Learning and Regression Algorithms
