@@ -50,6 +50,6 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 1. <i class="fa-solid fa-phone"></i> 0834265442
 
-2. <i class="fa-solid fa-envelope"></i> thaihocit02@gmail.com
+2. <i class="fa-solid fa-envelope"></i> <thaihocit02@gmail.com>
 
 3. <i class="fa-brands fa-facebook"></i> [Link facebook](https://www.facebook.com/NguyenThaiHoc.IT)

@@ -20,6 +20,10 @@ layout: default
 
 * [Week02 - Supervised Learning algorithms in Machine Learning](#week02---suppervised-learning-algorithms-in-machine-learning)
 
+* [Week03 - Classification algorithms in Machine Learning](#week03---classification-algorithms-in-machine-learning)
+
+* [Week04 - K-Nearest Neighbor algorithms](#week04---k-nearest-neighbor-algorithm)
+
 ---
 <a id="part1"></a>
 
@@ -32,9 +36,9 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ## II. Course Information
 
-1. **Time**: **08:00 PM** every **Tuesday** and **Friday**.
+* **Time**: **08:00 PM** every **Tuesday** and **Friday**.
 
-2. **Requirements**: Research and understand the concepts and     keywords, prepare notes or slides for weekly presentations and discussions.
+* **Requirements**: Research and understand the concepts and     keywords, prepare notes or slides for weekly presentations and discussions.
 
 ---
 <a id="part3"></a>
@@ -43,13 +47,13 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 ### 1. Blog & Website
 
-a. [Machine Learning basic, Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
+* [Machine Learning basic, Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
 
-b. [Dive into Deep Learning](https://d2l.aivivn.com/)
+* [Dive into Deep Learning](https://d2l.aivivn.com/)
 
-c. [Deep AI, Pham Dinh Khanh](https://phamdinhkhanh.github.io/deepai-book/ch_intro/main_contents.html)
+* [Deep AI, Pham Dinh Khanh](https://phamdinhkhanh.github.io/deepai-book/ch_intro/main_contents.html)
 
-d. [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
+* [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 
 ### 2. Book
 
@@ -80,7 +84,7 @@ d. [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 
 ## IV. Course Schedule                       
 
-### Week01 - Introduction to Artificial Intelligence and Machine Learning
+### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
 
 #### 1. Concepts and Keywords
 
@@ -102,8 +106,12 @@ d. [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 
 * None
 
+#### 4. Videos
+
+* None
+
 ---
-### Week02 - Suppervised Learning algorithms in Machine Learning
+### Week02 - Suppervised Learning and Regression Algorithms
 
 #### 1. Concepts and Keywords
 
@@ -131,15 +139,25 @@ d. [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 
 * None
 
+#### 4. Videos
+
+* None
+
 ---
-### Week03 - Classification algorithms in Machine Learning
+### Week03 - Classification and Logistic Regression Algorithms
 
 #### 1. Concepts & Keywords
 
+* 
 * Classification algorithms concept
 
 * Type of ML classifiction algorithms
 
+* Sigmoid function
+
+* Type of Logistic Regression
+
+* 
 * Evaluation classification model performance: Precision, Recall, Confusion Matrix, F1-Score, ROC, AUC
 
 #### 2. Hands on
@@ -151,9 +169,15 @@ d. [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 * None
 
 ---
-### Week04 - K Nearest Neighbor algorithm
+### Week04 - K Nearest Neighbor and Logistic Regression algorithm
 
 #### 1. Concepts and Keywords
+
+* Sigmoid function
+
+* Type of Logistic Regression
+
+* Softmax function
 
 * KNN concept
 
@@ -172,7 +196,9 @@ d. [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 ----
 ### Week05
 
-* In progress
+#### 1. Concepts and Keywords
+
+* 
 
 ---
 ### Week06
