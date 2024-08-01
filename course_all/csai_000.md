@@ -36,8 +36,6 @@ layout: default
 
 * [10. Week10 - Unsupervised Learning Techniques and K-Measn Clustering Algorithms, Gaussian Mixture Model](#week10---unsupervised-learning-techniques-k-measn-clusteringgaussian-mixture-model-algorithms)
 
-[V. Contact Information](#contact-information)
-
 ---
 ## I. Course Description
 CSAIOOO includes discussions on AI-related topics, especially focusing on two main areas: Machine Learning and Deep Learning. The topics cover algorithms related to supervised learning and unsupervised learning. Additionally, there are techniques for building models from end to end, data collection and preprocessing, and model performance evaluation.
@@ -63,7 +61,14 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 ### 1. About Me
 <img class="profile-picture" src="hoc.jpg">
 
+Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artificial Intelligence Thai Nguyen University of Information and Technolygy Communication.
+
 ### 2. Contact Information
+1. <i class="fa-solid fa-phone"></i> <0834265442>
+
+2. <i class="fa-solid fa-envelope"></i> <thaihocit02@gmail.com>
+
+3. <i class="fa-brands fa-facebook"></i> [Link facebook](https://www.facebook.com/NguyenThaiHoc.IT)
 
 ---
 ## IV. Materials
