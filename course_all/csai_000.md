@@ -122,29 +122,30 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 4. Videos
 
 ---
+---
 ### Week02 - Suppervised Learning and Regression Algorithms
-#### 1. Concepts and Keywords
-* Regression Analysis
-
-* Linear Regression
-
-* Lasso Regression
-
-* Rigde Regression
-
-* Backward Elimination
-
-* Gradient Descent
-
-* Cost Function
-
-* Evaluation Regression model performance: Accuracy, MSE, RMSE, MAE, MAPE, R-Squared
-
-#### 2. Hands on
-* Implementation Regression algorithms use Python
-
-#### 3. Notes
-#### 4. Videos
+> #### 1. Concepts and Keywords
+> * Regression Analysis
+>
+> * Linear Regression
+>
+> * Lasso Regression
+>
+> * Rigde Regression
+>
+> * Backward Elimination
+>
+> * Gradient Descent
+>
+> * Cost Function
+>
+>   * Evaluation Regression model performance: Accuracy, MSE, RMSE, MAE, MAPE, R-Squared
+>
+> #### 2. Hands on
+> * Implementation Regression algorithms use Python
+>
+> #### 3. Notes
+> #### 4. Videos
 
 ---
 ### Week03 - Classification and Logistic Regression Algorithms
