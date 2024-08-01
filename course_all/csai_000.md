@@ -10,43 +10,51 @@ layout: default
 
 [I. Course Description](#part1)
 
-[II. Course Introduction](#part2)
+[II. Course Information](#part2)
 
 [III. Materials](#part3)
 
 [IV. Course Schedule](#part4)
 
-* [Week01 - Introduction to Artificial Intelligence and Machine Learning](#week01---introduction-to-artificial-intelligence--machine-learning)
+* [1. Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concetps](#week01---introduction-to-artificial-intelligence-and-machine-learning-basic-concepts)
 
-* [Week02 - Supervised Learning algorithms in Machine Learning](#week02---suppervised-learning-algorithms-in-machine-learning)
+* [2. Week02 - Supervised Learning and Regression Algorithms](#week02---suppervised-learning-and-regression-algorithms)
 
-* [Week03 - Classification algorithms in Machine Learning](#week03---classification-algorithms-in-machine-learning)
+* [3. Week03 - Classification and Logistic Regression Algorithms](#week03---classification-and-logistic-regression-algorithms)
 
-* [Week04 - K-Nearest Neighbor algorithms](#week04---k-nearest-neighbor-algorithm)
+* [4. Week04 - Data Splits, Cross-Validation, Bias-Variance Tradeoff, Regularization, Model/Feature Selection and Problems in Machine Learning](#week04---data-split-cross-validation-bias-variance-tradeoff-regularization-modelfeature-selection-and-problems-in-machine-learning)
+
+* [5. Week05 - Naive Bayes Classifier Algorithms](#week05---naive-bayes-classifier-algorithms)
+
+* [6. Week06 - Support Vector Machine Algorithms](#week06---support-vector-machine-algorithms)
+
+* [7. Week07 - Decision Tree Algorithms](#week07---decision-tree-algorithms)
+
+* [8. Week08 - Ensemble Learning Methods and Random Forest Algorithms](#week08---ensemble-method-and-random-forest-algorithms)
+
+* [9. Week09 - Dimensionality Reduction Techniques and Principal Component Analysis Algorithms](#week09---dimensionality-reduction-techniques-and-principal-component-analysis-algorithms)
+
+* [10. Week10 - Unsupervised Learning Techniques and K-Measn Clustering Algorithms, Gaussian Mixture Model](#week10---unsupervised-learning-techniques-k-measn-clusteringgaussian-mixture-model-algorithms)
 
 ---
 <a id="part1"></a>
 
 ## I. Course Description
-
 CSAIOOO includes discussions on AI-related topics, especially focusing on two main areas: Machine Learning and Deep Learning. The topics cover algorithms related to supervised learning and unsupervised learning. Additionally, there are techniques for building models from end to end, data collection and preprocessing, and model performance evaluation.
 
 ---
 <a id="part2"></a>
 
 ## II. Course Information
-
 * **Time**: **08:00 PM** every **Tuesday** and **Friday**.
 
-* **Requirements**: Research and understand the concepts and     keywords, prepare notes or slides for weekly presentations and discussions.
+* **Requirements**: Research and understand the concepts and keywords, prepare notes or slides for weekly presentations and discussions.
 
 ---
 <a id="part3"></a>
 
 ## III. Materials
-
 ### 1. Blog & Website
-
 * [Machine Learning basic, Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
 
 * [Dive into Deep Learning](https://d2l.aivivn.com/)
@@ -56,7 +64,6 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 
 ### 2. Book
-
 * [Machine Learning basic, Vu Huu Tiep](https://drive.google.com/file/d/1QUGAEW4nHivTr1ucW7JklayThV2JdOYk/view?usp=sharing).
 
 * [Design Machine Learning System, Chip Huyen](https://drive.google.com/file/d/1j0qaLTGOhLDFjOPO-xMnsSQfaHaPvH-O/view?usp=sharing).
@@ -68,7 +75,6 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * [Deep Learning basic, Good Fellow, Yoshua Bengio and Aaron Courville](https://drive.google.com/file/d/1gWgcS8LujPjrI7Wbcxi3H3hdm93Fx4xI/view?usp=sharing).
 
 ### 3. Other Resources
-
 * [Geekforgeeks Python tutorials](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=lbp)
 
 * [W3Schools Python tutorials](https://www.w3schools.com/python/)
@@ -83,11 +89,8 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 <a id="part4">
 
 ## IV. Course Schedule                       
-
 ### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
-
 #### 1. Concepts and Keywords
-
 * Artificial Intelligence concept
 
 * Machine Learning concept
@@ -99,22 +102,12 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * Life cycle of Machine Learning
 
 #### 2. Hands on
-
-* None
-
 #### 3. Notes
-
-* None
-
 #### 4. Videos
-
-* None
 
 ---
 ### Week02 - Suppervised Learning and Regression Algorithms
-
 #### 1. Concepts and Keywords
-
 * Regression Analysis
 
 * Linear Regression
@@ -132,23 +125,14 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * Evaluation Regression model performance: Accuracy, MSE, RMSE, MAE, MAPE, R-Squared
 
 #### 2. Hands on
-
 * Implementation Regression algorithms use Python
 
 #### 3. Notes
-
-* None
-
 #### 4. Videos
-
-* None
 
 ---
 ### Week03 - Classification and Logistic Regression Algorithms
-
-#### 1. Concepts & Keywords
-
-* 
+#### 1. Concepts and Keywords
 * Classification algorithms concept
 
 * Type of ML classifiction algorithms
@@ -157,70 +141,207 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 * Type of Logistic Regression
 
-* 
+* Softmax function
+
 * Evaluation classification model performance: Precision, Recall, Confusion Matrix, F1-Score, ROC, AUC
 
 #### 2. Hands on
-
-* None
+* Implementation Logistic Regression algorithms use Python
 
 #### 3. Notes
-
-* None
+#### 4. Videos
 
 ---
-### Week04 - K Nearest Neighbor and Logistic Regression algorithm
+### Week04 - Data Split, Cross-Validation, Bias-Variance Tradeoff, Regularization, Model/Feature Selection and Problems in Machine Learning
+#### 1. Concetps and Keywords
+* Bias - Variance
 
-#### 1. Concepts and Keywords
+* Regularization
 
-* Sigmoid function
+* Overfitting and Underfitting
 
-* Type of Logistic Regression
+* Train/Dev/Test Splits
 
-* Softmax function
+* Cross Validation
 
-* KNN concept
+* Imbalanced Data
 
-* Select value of K techniques
+* Stratifiled Sample
 
-* Advantages and Disadvantages
+* Feature Selection
+
+* Preprocessing Data
+
+* Hyperparameters and Model Parameters
 
 #### 2. Hands on
-
-* Implementation KNN algorithms use Python
+* Implementation K-NN algorithms use Python
 
 #### 3. Notes
-
-* None
+#### 4. Videos
 
 ----
-### Week05
-
+### Week05 - Naive Bayes Classifier Algorithms
 #### 1. Concepts and Keywords
+* Naive Bayes Classifier concepts
 
-* 
+* Bayes' Theorem
+
+* Posterior probability
+
+* Likelihood probability
+
+* Prior probability
+
+* Marginal probability
+
+* Advantages and Disadvantages of Naive Bayes Classifier
+
+* Type of Naive Bayes Model
+
+#### 2. Hands on
+* Implementation Naive Bayes Classifier use Python
+
+#### 3. Notes
+#### 4. Videos
 
 ---
-### Week06
+### Week06 - Support Vector Machine Algorithms
+#### 1. Concepts and Keywords
+* Types of Support Vector Machine
 
-* In progress
+* Hyperplane in Support Vector Machine
+
+* Kernels Matrix
+
+* Laplace smoothing
+
+* Dual Form
+
+* Convex sets and convex function
+
+* Convex Optimization
+
+* Lagrande dual function
+
+* Hinge loss function
+
+#### 2. Hands on
+* Implementation Support Vector Machine Algorithms use Python
+
+#### 3. Notes
+##### 4. Videos
 
 ---
-### Week07
+### Week07 - Decision Tree Algorithms
+#### 1. Concepts and Keywords
+* Decision Tree concepts
 
-* In progress
+* Gini index
+
+* Cross Entropy
+
+* Pruning
+
+* Root Node, Leaf Node, Splitting, Branch, Parent Node, Child Node
+
+#### 2. Hands on
+* Implementation Decision Tree Algorithms use Python
+
+#### 3. Notes
+#### 4. Videos
 
 ---
-### Week08
+### Week08 - Ensemble Method and Random Forest Algorithms
+#### 1. Concepts and Keywords
+* Voting Classifier
 
-* In progress
+* Bagging method
+
+* Pasting method
+
+* Ouf-of-Bag
+
+* Random Patches
+
+* Random Forest concepts
+
+* Boosting
+
+* AdaBoost
+
+* Gradient Boosting
+
+* Stacking
+
+#### 2. Hands on
+* Implementation Ensemble Learning and Random Forest algorithms use Python
+
+#### 3. Notes
+#### 4. Videos
 
 ---
-### Week09
+### Week09 - Dimensionality Reduction Techniques and Principal Component Analysis Algorithms
+#### 1. Concetps and Keywords
+* Dimensionality Reduction concept
 
-* In progress
+* Curse of Dimensionality
+
+* Manifold Learning
+
+* Backward Elimination
+
+* Orthogonal
+
+* Eigenvectors
+
+* Forward Selection
+
+* Score comparision
+
+* Low Variance Filter
+
+* High Correlation Filter
+
+* Factor Analysis
+
+* Auto-Encoder
+
+* LLE (Locally Linear Embedding)
+
+* LDA (Linear Discriminant Analysis)
+
+#### 2. Hands on
+* Implementation PCA algorithms use Python
+
+#### 3. Notes
+#### 4. Videos
 
 ---
-### Week10
+### Week10 - Unsupervised Learning Techniques, K-Measn Clustering Algorithms and Gaussian Mixture Model
+#### 1. Concepts and Keywords
+* Unsupervised Learning concept
 
-* In progress
+* Type of Unsupervised Learning algorithms
+
+* K-Means
+
+* Cluster Centroids
+
+* Clustering
+
+* Select the value K number of clusters
+
+* Elbow Methods
+
+* Silhouette methods
+
+* Gaussian Mixture Model
+
+#### 2. Hands on
+* Implementation K-Means algorithms use Python
+
+#### 3. Notes
+#### 4. Slides
+
+
