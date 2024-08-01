@@ -106,7 +106,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ## V. Course Schedule                       
 ### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
-> #### 1. Concepts and Keywords
+#### 1. Concepts and Keywords
 > * Artificial Intelligence concept
 >
 > * Machine Learning concept
@@ -139,7 +139,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 >
 > * Cost Function
 >
->   * Evaluation Regression model performance: Accuracy, MSE, RMSE, MAE, MAPE, R-Squared
+> * Evaluation Regression model performance: Accuracy, MSE, RMSE, MAE, MAPE, R-Squared
 >
 > #### 2. Hands on
 > * Implementation Regression algorithms use Python
