@@ -4,17 +4,17 @@ layout: default
 
 <h2 class="fa-solid fa-award" style="color: #F08080;"> CSAI000 : ARTIFICIAL INTELLIGENCE COURSE </h2>
 
-<img class="profile-picture" src="hoc.jpg">
-
 ## Content
 
-[I. Course Description](#part1)
+[I. Course Description](#i-course-description)
 
-[II. Course Information](#part2)
+[II. Course Information](#ii-course-information)
 
-[III. Materials](#part3)
+[III. Instructor](#iii-instructor)
 
-[IV. Course Schedule](#part4)
+[IV. Materials](#iv-materials)
+
+[V. Course Schedule](#v-course-schedule)
 
 * [1. Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concetps](#week01---introduction-to-artificial-intelligence-and-machine-learning-basic-concepts)
 
@@ -36,24 +36,37 @@ layout: default
 
 * [10. Week10 - Unsupervised Learning Techniques and K-Measn Clustering Algorithms, Gaussian Mixture Model](#week10---unsupervised-learning-techniques-k-measn-clusteringgaussian-mixture-model-algorithms)
 
----
-<a id="part1"></a>
+[V. Contact Information](#contact-information)
 
+---
 ## I. Course Description
 CSAIOOO includes discussions on AI-related topics, especially focusing on two main areas: Machine Learning and Deep Learning. The topics cover algorithms related to supervised learning and unsupervised learning. Additionally, there are techniques for building models from end to end, data collection and preprocessing, and model performance evaluation.
 
 ---
-<a id="part2"></a>
-
 ## II. Course Information
+### 1. Time and Location
 * **Time**: **08:00 PM** every **Tuesday** and **Friday**.
 
-* **Requirements**: Research and understand the concepts and keywords, prepare notes or slides for weekly presentations and discussions.
+* **Location**: Online Learning use **Google Meet**.
+
+### 2. Requirements
+* Have knowledge of linear algebra, probability and statistics, and basic calculus.
+
+* Have experience using machine learning libraries such as.
+
+* Have experience using machine learning libraries such as TensorFlow, Keras, and scikit-learn.
+
+* Research the concepts and keywords for the upcoming week to prepare slides or notes for the weekly discussion.
 
 ---
-<a id="part3"></a>
+## III. Instructor
+### 1. About Me
+<img class="profile-picture" src="hoc.jpg">
 
-## III. Materials
+### 2. Contact Information
+
+---
+## IV. Materials
 ### 1. Blog & Website
 * [Machine Learning basic, Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
 
@@ -86,9 +99,7 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 * [Machine Learning basic geekforgeeks](https://www.geeksforgeeks.org/machine-learning/?ref=outind)
 
 ---
-<a id="part4">
-
-## IV. Course Schedule                       
+## V. Course Schedule                       
 ### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
 #### 1. Concepts and Keywords
 * Artificial Intelligence concept
@@ -343,5 +354,3 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 
 #### 3. Notes
 #### 4. Slides
-
-
