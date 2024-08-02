@@ -98,8 +98,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 * [Machine Learning basic geekforgeeks](https://www.geeksforgeeks.org/machine-learning/?ref=outind)
 
 ---
-## V. Course Schedule                       
-### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
+## V. Course Schedule                     
+:black_circle: ### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
 ### Time [05/08/2024]
 
 > #### 1. Concepts and Keywords
