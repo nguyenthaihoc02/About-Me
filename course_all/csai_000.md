@@ -207,9 +207,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ### Time [19/08/2024]
 
 > #### 1. Concepts and Keywords
-> * Naive Bayes Classifier concepts
->
-> Bayes' Theorem
+> * Naive Bayes Classifier concepts Bayes' Theorem
 >
 > * Posterior probability
 >
