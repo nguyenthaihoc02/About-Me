@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 class="fa-solid fa-award" style="color: #F08080;"> CSAI000 : ARTIFICIAL INTELLIGENCE COURSE </h2>
+<h2 class="fa-solid fa-award" style="color: #F08080;"> CSML000 : MACHINE LEARNING COURSE </h2>
 
 ## Content
 
@@ -16,29 +16,29 @@ layout: default
 
 [V. Course Schedule](#v-course-schedule)
 
-* [1. Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concetps](#week01---introduction-to-artificial-intelligence-and-machine-learning-basic-concepts)
+* [1. Week01 : Introduction to Artificial Intelligence and Machine Learning Basic Concetps](#week01---introduction-to-artificial-intelligence-and-machine-learning-basic-concepts)
 
-* [2. Week02 - Supervised Learning and Regression Algorithms](#week02---suppervised-learning-and-regression-algorithms)
+* [2. Week02 : Supervised Learning and Regression Algorithms](#week02---suppervised-learning-and-regression-algorithms)
 
-* [3. Week03 - Classification and Logistic Regression Algorithms](#week03---classification-and-logistic-regression-algorithms)
+* [3. Week03 : Classification and Logistic Regression Algorithms](#week03---classification-and-logistic-regression-algorithms)
 
-* [4. Week04 - Data Splits, Cross-Validation, Bias-Variance Tradeoff, Regularization, Model/Feature Selection and Problems in Machine Learning](#week04---data-split-cross-validation-bias-variance-tradeoff-regularization-modelfeature-selection-and-problems-in-machine-learning)
+* [4. Week04 : Data Splits, Cross-Validation, Bias-Variance Tradeoff, Regularization, Model/Feature Selection and Problems in Machine Learning](#week04---data-split-cross-validation-bias-variance-tradeoff-regularization-modelfeature-selection-and-problems-in-machine-learning)
 
-* [5. Week05 - Naive Bayes Classifier Algorithms](#week05---naive-bayes-classifier-algorithms)
+* [5. Week05 : Naive Bayes Classifier Algorithms](#week05---naive-bayes-classifier-algorithms)
 
-* [6. Week06 - Support Vector Machine Algorithms](#week06---support-vector-machine-algorithms)
+* [6. Week06 : Support Vector Machine Algorithms](#week06---support-vector-machine-algorithms)
 
-* [7. Week07 - Decision Tree Algorithms](#week07---decision-tree-algorithms)
+* [7. Week07 : Decision Tree Algorithms](#week07---decision-tree-algorithms)
 
-* [8. Week08 - Ensemble Learning Methods and Random Forest Algorithms](#week08---ensemble-method-and-random-forest-algorithms)
+* [8. Week08 : Ensemble Learning Methods and Random Forest Algorithms](#week08---ensemble-method-and-random-forest-algorithms)
 
-* [9. Week09 - Dimensionality Reduction Techniques and Principal Component Analysis Algorithms](#week09---dimensionality-reduction-techniques-and-principal-component-analysis-algorithms)
+* [9. Week09 : Dimensionality Reduction Techniques and Principal Component Analysis Algorithms](#week09---dimensionality-reduction-techniques-and-principal-component-analysis-algorithms)
 
-* [10. Week10 - Unsupervised Learning Techniques and K-Measn Clustering Algorithms, Gaussian Mixture Model](#week10---unsupervised-learning-techniques-k-measn-clusteringgaussian-mixture-model-algorithms)
+* [10. Week10 : Unsupervised Learning Techniques and K-Measn Clustering Algorithms, Gaussian Mixture Model](#week10---unsupervised-learning-techniques-k-measn-clusteringgaussian-mixture-model-algorithms)
 
 ---
 ## I. Course Description
-CSAIOOO includes discussions on AI-related topics, especially focusing on two main areas: Machine Learning and Deep Learning. The topics cover algorithms related to supervised learning and unsupervised learning. Additionally, there are techniques for building models from end to end, data collection and preprocessing, and model performance evaluation.
+This course covers knowledge related to artificial intelligence, with a particular focus on machine learning. It helps learners grasp fundamental concepts in machine learning, including important and prominent algorithms for supervised and unsupervised learning. Additionally, it provides knowledge on various techniques in machine learning, including guidance on setting up and evaluating models end-to-end.
 
 ---
 ## II. Course Information
@@ -50,25 +50,27 @@ CSAIOOO includes discussions on AI-related topics, especially focusing on two ma
 ### 2. Requirements
 * Have knowledge of linear algebra, probability and statistics, and basic calculus.
 
-* Have experience using machine learning libraries such as.
+* Have basic experience using the Python programming language.
 
 * Have experience using machine learning libraries such as TensorFlow, Keras, and scikit-learn.
 
 * Research the concepts and keywords for the upcoming week to prepare slides or notes for the weekly discussion.
+
+* Prepare slides or notes based on the weekly keywords and concepts.
 
 ---
 ## III. Instructor
 ### 1. About Me
 <img class="profile-picture" src="hoc.jpg">
 
-Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artificial Intelligence Thai Nguyen University of Information and Technolygy Communication.
+Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artificial Intelligence Thai Nguyen University of Information and Technolygy Communication. [More information about me](https://nguyenthaihoc02.github.io/About-Me).
 
 ### 2. Contact Information
-1. <i class="fa-solid fa-phone"></i> 0834265442
+* <i class="fa-solid fa-phone"></i> 0834265442
 
-2. <i class="fa-solid fa-envelope"></i> <thaihocit02@gmail.com>
+* <i class="fa-solid fa-envelope"></i> <thaihocit02@gmail.com>
 
-3. <i class="fa-brands fa-facebook"></i> [Link facebook](https://www.facebook.com/NguyenThaiHoc.IT)
+* <i class="fa-brands fa-facebook"></i> [Link facebook](https://www.facebook.com/NguyenThaiHoc.IT)
 
 ---
 ## IV. Materials
@@ -119,8 +121,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > * Life cycle of Machine Learning
 >
 > #### 2. Hands on
-> #### 3. Notes
-> #### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -146,8 +148,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation Regression algorithms use Python
 >
-> #### 3. Notes
-> #### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -169,8 +171,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation Logistic Regression algorithms use Python
 >
-> #### 3. Notes
-> #### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -200,8 +202,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation K-NN algorithms use Python
 >
-> #### 3. Notes
-> #### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -227,8 +229,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation Naive Bayes Classifier use Python
 >
-> #### 3. Notes
-> #### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -256,8 +258,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation Support Vector Machine Algorithms use Python
 >
-> #### 3. Notes
-> ##### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -277,8 +279,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation Decision Tree Algorithms use Python
 > 
-> #### 3. Notes
-> #### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -308,8 +310,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation Ensemble Learning and Random Forest algorithms use Python
 >
-> #### 3. Notes
-> #### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -347,8 +349,8 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation PCA algorithms use Python
 > 
-> #### 3. Notes
-> #### 4. Videos
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
 ---
@@ -376,7 +378,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 > #### 2. Hands on
 > * Implementation K-Means algorithms use Python
 >
-> #### 3. Notes
-> #### 4. Slides
+> #### 3. Lecture Notes
+> #### 4. Lecture Videos
 
 ---
