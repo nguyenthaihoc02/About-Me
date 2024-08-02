@@ -38,7 +38,7 @@ layout: default
 
 ---
 ## I. Course Description
-This course covers knowledge related to artificial intelligence, with a particular focus on machine learning. It helps learners grasp fundamental concepts in machine learning, including important and prominent algorithms for supervised and unsupervised learning. Additionally, it provides knowledge on various techniques in machine learning, including guidance on setting up and evaluating models end-to-end.
+This course covers knowledge related to artificial intelligence, with a particular focus on machine learning. It helps learners grasp fundamental concepts in machine learning, including important and prominent algorithms for supervised and unsupervised learning. Additionally, it provides knowledge on various techniques in machine learning and guidance on setting up and evaluating models end-to-end.
 
 ---
 ## II. Course Information
@@ -77,11 +77,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ### 1. Blog & Website
 * [Machine Learning basic, Vu Huu Tiep](https://machinelearningcoban.com/tabml_book/intro.html)
 
-* [Dive into Deep Learning](https://d2l.aivivn.com/)
-
 * [Deep AI, Pham Dinh Khanh](https://phamdinhkhanh.github.io/deepai-book/ch_intro/main_contents.html)
-
-* [Data Science, Pham Dinh Khanh](https://phamdinhkhanh.github.io/content)
 
 ### 2. Book
 * [Machine Learning basic, Vu Huu Tiep](https://drive.google.com/file/d/1QUGAEW4nHivTr1ucW7JklayThV2JdOYk/view?usp=sharing).
@@ -89,10 +85,6 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 * [Design Machine Learning System, Chip Huyen](https://drive.google.com/file/d/1j0qaLTGOhLDFjOPO-xMnsSQfaHaPvH-O/view?usp=sharing).
 
 * [Pattern Recognition and Machine Learning, Bishop](https://drive.google.com/file/d/1x_gEQ0_Y3iVS8mYFBMAMJqHBUWqTSdVB/view?usp=sharing).
-
-* [Deep Learning basic, Nguyen Thanh Tuan](https://drive.google.com/file/d/1ZpJnz21qVZmOThS1OwFzir5saOBpiwS3/view?usp=sharing).
-
-* [Deep Learning basic, Good Fellow, Yoshua Bengio and Aaron Courville](https://drive.google.com/file/d/1gWgcS8LujPjrI7Wbcxi3H3hdm93Fx4xI/view?usp=sharing).
 
 ### 3. Other Resources
 * [Geekforgeeks Python tutorials](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=lbp)
