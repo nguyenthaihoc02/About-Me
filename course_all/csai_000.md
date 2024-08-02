@@ -99,7 +99,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 
 ---
 ## V. Course Schedule                     
-:black_circle: ### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
+### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
 ### Time [05/08/2024]
 
 > #### 1. Concepts and Keywords
