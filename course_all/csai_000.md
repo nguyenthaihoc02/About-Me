@@ -100,7 +100,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ## V. Course Schedule                       
 ### Week01 - Introduction to Artificial Intelligence and Machine Learning Basic Concepts
-### Timeline [05/08/2024]
+### Time [05/08/2024]
 
 > #### 1. Concepts and Keywords
 > * Artificial Intelligence concept
@@ -120,7 +120,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week02 - Suppervised Learning and Regression Algorithms
-### Timeline [08/08/2024]
+### Time [08/08/2024]
 
 > #### 1. Concepts and Keywords
 > * Regression Analysis
@@ -148,7 +148,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week03 - Classification and Logistic Regression Algorithms
-### Timeline [12/08/2024]
+### Time [12/08/2024]
 
 > #### 1. Concepts and Keywords
 > * Classification algorithms concept
@@ -172,7 +172,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week04 - Data Split, Cross-Validation, Bias-Variance Tradeoff, Regularization, Model/Feature Selection and Problems in Machine Learning
-### Timeline [15/08/2024]
+### Time [15/08/2024]
 
 > #### 1. Concetps and Keywords
 > * Bias - Variance
@@ -204,7 +204,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week05 - Naive Bayes Classifier Algorithms
-### Timeline [19/08/2024]
+### Time [19/08/2024]
 
 > #### 1. Concepts and Keywords
 > * Naive Bayes Classifier concepts
@@ -232,7 +232,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week06 - Support Vector Machine Algorithms
-### Timeline [22/08/2024]
+### Time [22/08/2024]
 
 > #### 1. Concepts and Keywords
 > * Types of Support Vector Machine
@@ -262,7 +262,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week07 - Decision Tree Algorithms
-### Timeline [26/08/2024]
+### Time [26/08/2024]
 
 > #### 1. Concepts and Keywords
 > * Decision Tree concepts
@@ -284,7 +284,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week08 - Ensemble Method and Random Forest Algorithms
-### Timeline [29/08/2024]
+### Time [29/08/2024]
 
 > #### 1. Concepts and Keywords
 > * Voting Classifier
@@ -316,7 +316,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week09 - Dimensionality Reduction Techniques and Principal Component Analysis Algorithms
-### Timeline [03/09/2024]
+### Time [03/09/2024]
 
 > #### 1. Concetps and Keywords
 > * Dimensionality Reduction concept
@@ -356,7 +356,7 @@ Hi. My name is Hoc, and I am have Bachelor of Engineer in Data Science and Artif
 ---
 ---
 ### Week10 - Unsupervised Learning Techniques, K-Measn Clustering Algorithms and Gaussian Mixture Model
-### Timeline [06/09/2024]
+### Time [06/09/2024]
 
 > #### 1. Concepts and Keywords
 > * Unsupervised Learning concept
